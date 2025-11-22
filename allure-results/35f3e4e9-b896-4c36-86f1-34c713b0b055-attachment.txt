@@ -1,0 +1,19 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '8 out of 10' test cases in the current suite                                        
+                                         Test Method: 'parkingcalculation.ShortTermParkingcalculationpm'                                         
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Select "Short-Term Parking" from "By.xpath: //select[@id='ParkingLot']". @23-11-2025 00:19:15.0303 AM
+[ReportManager] Clear "By.xpath: //input[@id='StartingDate']". @23-11-2025 00:19:15.0376 AM
+[ReportManager] Type "By.xpath: //input[@id='StartingDate']" @23-11-2025 00:19:15.0467 AM
+[ReportManager] Clear "By.xpath: //input[@id='LeavingDate']". @23-11-2025 00:19:15.0536 AM
+[ReportManager] Type "By.xpath: //input[@id='LeavingDate']" @23-11-2025 00:19:15.0624 AM
+[ReportManager] Click "By.xpath: //input[@id='StartingDate']" @23-11-2025 00:19:15.0692 AM
+[ReportManager] Type "By.xpath: //input[@id='StartingTime']" @23-11-2025 00:19:15.0787 AM
+[ReportManager] Clear "By.xpath: //input[@id='LeavingTime']". @23-11-2025 00:19:15.0850 AM
+[ReportManager] Type "By.xpath: //input[@id='LeavingTime']" @23-11-2025 00:19:15.0930 AM
+[ReportManager] Click "By.xpath: //tbody/tr[2]/td[2]/input[4]" @23-11-2025 00:19:15.0999 AM
+[ReportManager] Click "By.xpath: //tbody/tr[3]/td[2]/input[4]" @23-11-2025 00:19:16.0060 AM
+[ReportManager] Click "Calculate" @23-11-2025 00:19:16.0293 AM
+[ReportManager] Get text "$ 24.00" from "By.xpath: /html/body/form/table/tbody/tr[4]/td[2]/span[1]/b". @23-11-2025 00:19:16.0366 AM

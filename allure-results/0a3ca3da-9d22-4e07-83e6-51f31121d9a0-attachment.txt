@@ -1,0 +1,17 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '7 out of 10' test cases in the current suite                                        
+                                          Test Method: 'parkingcalculation.ShortTermParkingcalculation'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Select "Short-Term Parking" from "By.xpath: //select[@id='ParkingLot']". @23-11-2025 00:19:11.0420 AM
+[ReportManager] Clear "By.xpath: //input[@id='StartingDate']". @23-11-2025 00:19:11.0494 AM
+[ReportManager] Type "By.xpath: //input[@id='StartingDate']" @23-11-2025 00:19:11.0586 AM
+[ReportManager] Clear "By.xpath: //input[@id='LeavingDate']". @23-11-2025 00:19:11.0649 AM
+[ReportManager] Type "By.xpath: //input[@id='LeavingDate']" @23-11-2025 00:19:11.0734 AM
+[ReportManager] Click "By.xpath: //input[@id='StartingDate']" @23-11-2025 00:19:11.0801 AM
+[ReportManager] Type "By.xpath: //input[@id='StartingTime']" @23-11-2025 00:19:11.0893 AM
+[ReportManager] Clear "By.xpath: //input[@id='LeavingTime']". @23-11-2025 00:19:11.0954 AM
+[ReportManager] Type "By.xpath: //input[@id='LeavingTime']" @23-11-2025 00:19:12.0028 AM
+[ReportManager] Click "Calculate" @23-11-2025 00:19:12.0247 AM
+[ReportManager] Get text "$ 24.00" from "By.xpath: /html/body/form/table/tbody/tr[4]/td[2]/span[1]/b". @23-11-2025 00:19:12.0312 AM

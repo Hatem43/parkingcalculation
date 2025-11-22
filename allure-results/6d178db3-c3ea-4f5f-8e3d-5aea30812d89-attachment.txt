@@ -1,0 +1,16 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '9 out of 10' test cases in the current suite                                        
+                                           Test Method: 'parkingcalculation.valentparkingcalculation'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Clear "By.xpath: //input[@id='StartingDate']". @23-11-2025 00:19:19.0272 AM
+[ReportManager] Type "By.xpath: //input[@id='StartingDate']" @23-11-2025 00:19:19.0367 AM
+[ReportManager] Clear "By.xpath: //input[@id='LeavingDate']". @23-11-2025 00:19:19.0425 AM
+[ReportManager] Type "By.xpath: //input[@id='LeavingDate']" @23-11-2025 00:19:19.0508 AM
+[ReportManager] Click "By.xpath: //input[@id='StartingDate']" @23-11-2025 00:19:19.0576 AM
+[ReportManager] Type "By.xpath: //input[@id='StartingTime']" @23-11-2025 00:19:19.0671 AM
+[ReportManager] Clear "By.xpath: //input[@id='LeavingTime']". @23-11-2025 00:19:19.0731 AM
+[ReportManager] Type "By.xpath: //input[@id='LeavingTime']" @23-11-2025 00:19:19.0814 AM
+[ReportManager] Click "Calculate" @23-11-2025 00:19:20.0073 AM
+[ReportManager] Get text "$ 18.00" from "By.xpath: /html/body/form/table/tbody/tr[4]/td[2]/span[1]/b". @23-11-2025 00:19:20.0157 AM
