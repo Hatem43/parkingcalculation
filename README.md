@@ -1,2 +1,1 @@
-# parkingcalculation
-This project for calculation of car parking on (AM /PM) 
+Automation testing using Shaft for calculation of car parking on (AM /PM) 
